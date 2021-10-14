@@ -125,5 +125,10 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# exclude data files
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+
 # Pyre type checker
 .pyre/
