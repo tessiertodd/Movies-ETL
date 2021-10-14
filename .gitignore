@@ -130,5 +130,8 @@ movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
 
+# exclude
+config.py
+
 # Pyre type checker
 .pyre/
