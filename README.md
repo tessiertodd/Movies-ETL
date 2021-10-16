@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Analysis Overview
-We are helping Amazing Prime (AP) to setup a database as they are going to hold a Hackathon where programmers work together over a short period of time on a project.  We are working with Britta from AP to gather and clean data from Wikipedia and Kaggle, put them together and load to the SQL database.  We are helping with the ETL process - Extract data from sources, Transform data and the Load to a database for storaage and analysis (in this case we are using SQL).  
+We are helping Amazing Prime (AP) to setup a database as they are going to hold a Hackathon where programmers work together over a short period of time on a project.  We are working with Britta from AP to gather and clean data from Wikipedia and Kaggle, put them together and load to the SQL database.  We are helping with the ETL process - Extract data from sources, Transform data and the Load to a database for storaage and analysis (in this case we are using SQL).  We will also be adding another table that will have ratings date. Together these two tables will provide some great information for Hackathon teams to anlyze.
 
 ## Results
 
